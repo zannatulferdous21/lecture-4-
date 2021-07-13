@@ -1,0 +1,49 @@
+.external{
+    color: yellow;
+    background-color: blue;
+    font: 5px;
+}
+.zannat{
+    color: red;
+    background: black;
+}
+.strong{
+    background-color: red;
+    font-size: x-large;
+}
+.bold{
+    background-color: red;
+    font-size: x-large;
+}
+.italic{
+    background-color: red;
+    font-size: x-large;
+}
+.em{
+    background-color: red;
+    font-size: x-large;
+}
+.small{
+    background-color: red;
+    font-size: x-large;
+}
+.delete{
+    background-color: red;
+    font-size: x-large;
+}
+.insert{
+    background-color: red;
+    font-size: x-large;
+}
+.sub{
+    background-color: red;
+    font-size: x-large;
+}
+.sup{
+    background-color: red;
+    font-size: x-large;
+}
+.abbr{
+    background-color: red;
+    font-size: x-large;
+}
